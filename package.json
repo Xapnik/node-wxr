@@ -13,7 +13,8 @@
   "author": "Ilya Rusanen",
   "license": "MIT",
   "dependencies": {
-    "xmlbuilder": "^2.6.4"
+    "xmlbuilder": "^2.6.4",
+    "xmlbuilder2": "^3.0.2"
   },
   "devDependencies": {
     "grunt": "^0.4.5",
